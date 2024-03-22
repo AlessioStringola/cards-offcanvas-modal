@@ -1,0 +1,116 @@
+nav{
+    width: 100%;
+    z-index: 1000;
+}
+.div-img{
+    width: 18rem;
+    min-height: 74vh;
+}
+.div-btn{
+    min-height:145px;
+}
+.butt-1{
+    padding-block: 21px;
+    background-color: #d18aab;
+    width: 48%;
+    border: 3px solid green;
+}
+.h1-2{
+    margin-inline-start: 200px;
+}
+.modal-header{
+    background: linear-gradient(to right, rgba(173,205,84,0.4), rgba(170,200,200,0.8));
+    border-bottom: 2px groove green;
+}
+.modal-body{
+    background: radial-gradient(rgba(170,200,200,0.8), rgba(173,205,84,0.4) );
+}
+.img-1{
+    display: inline-block;
+    height: 158px;
+    width: 129px;
+    margin-inline-start: 180px;
+    margin-block: 25px;
+}
+.div3{
+    background-color: coral;
+    opacity: 0.7;
+}
+.butt-2{
+    padding: 13px;
+    width: 36%;
+    background-color: #f17000;
+    border-radius: 18px;
+    border: 6.4px inset brown;
+}
+.h5-1{
+    margin-inline-start: 140px;
+}
+.img-2{
+    display: inline-block;
+    height: 358px;
+    width: 229px;
+    margin-inline-start: 60px;
+    margin-block: 25px; 
+}
+.offcanvas-header{
+    background: radial-gradient(rgba(170,200,200,0.8), rgba(173,205,84,0.4) ); 
+    border-bottom: 2px groove green;
+}
+.offcanvas-body{ 
+    background: linear-gradient(to right, rgba(173,205,84,0.4), rgba(170,200,200,0.8));
+}
+.div-card2{
+    max-width: 540px;
+    height: 360px;
+}
+.div-card3{
+    background-color: #d18aab;
+    opacity: 0.73;
+}
+.div4{
+    height: 300px;
+    width: 100%;
+}
+.header-2{
+    background-image: url(./media/donato-christmas.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.h1-3{
+    font-weight: 700;
+    font-size: 57px;
+    color: #d51a0e;
+}
+
+
+
+
+
+
+
+
+footer{
+    height: 79vh;
+    background-color:#e7b33a; 
+    margin-block-start: 48px;
+}
+.span-footer{
+    color: #fff;
+    text-decoration:none;
+    list-style: none;
+}
+.anchoore{
+    text-decoration:none;
+    list-style: none;
+}
+.list-footer{
+    list-style: lower-greek;
+    text-decoration: none;
+}
+.footer-2{
+    margin-block-start: inherit; 
+    border-top: 6.1px outset indigo;
+}
